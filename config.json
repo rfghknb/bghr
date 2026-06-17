@@ -1,0 +1,8 @@
+{
+  "api_base": "https://nusaiptv.serv00.net",
+  "api_get": "https://nusaiptv.serv00.net/get.php",
+  "api_playlist": "https://nusaiptv.serv00.net/playlist.php",
+  "api_page": "https://nusaiptv.serv00.net/page.php",
+  "api_bg": "https://nusaiptv.serv00.net/background.php",
+  "api_release": "https://nusaiptv.serv00.net/release.json"
+}
